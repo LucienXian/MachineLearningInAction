@@ -169,7 +169,7 @@ def classifyPerson():
 # In[130]:
 
 
-classifyPerson()
+# classifyPerson()
 
 
 # In[ ]:
